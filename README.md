@@ -1,4 +1,4 @@
-# Portfolio
+# Analysis Portfolio
 
 These four projects show different aspects of my 
 ability to clean, explore, manipulate, and visualize
@@ -40,3 +40,14 @@ Pandas is used to read in a csv file, create a dataframe with the data from the 
 explore the data, creates dictionaries and renames columns with the dictionaries' values,
 changing data types, mapping dictionary values to replace data in specific columns,
 and writing the final dataframe to a new csv file to be used for later visualizations.
+
+## Python Movie Data Exploration and Visualization
+
+This project utilizes the pandas, seaborn, numpy, and matplotlib python libraries
+to explore and visualize movie data.
+
+The project reads in a csv file with movie information such as title, year released,
+director, film budget, and gross revenue on 7668 movies. 
+After some data cleaning, the data is visualized in scatter plots,
+heatmaps, and a correlation matrix to analyze whether there are any
+meaningful correlations between the columns of data. 
