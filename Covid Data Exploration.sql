@@ -1,5 +1,6 @@
 /*
 Covid 19 Data Exploration
+in PostgreSQL
 
 Skills used: Joins, CTE's, Window Functions, 
 Aggregate Functions, Creating Views, Converting Data Types
