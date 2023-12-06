@@ -30,4 +30,13 @@ be broken down and separated, creation of new columns with
 sliced data, standardizing columns values, and
 deleting unused columns.
 
+## Pandas Python Data Exploration
 
+This project primarily utilizes the pandas python library to explore and 
+manipulate public bike usage data in London over a period from January 4, 2015
+to January 3, 2017.
+
+Pandas is used to read in a csv file, create a dataframe with the data from the file,
+explore the data, creates dictionaries and renames columns with the dictionaries' values,
+changing data types, mapping dictionary values to replace data in specific columns,
+and writing the final dataframe to a new csv file to be used for later visualizations.
