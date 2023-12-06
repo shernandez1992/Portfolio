@@ -16,7 +16,7 @@ view creation, and data type conversions in PostgreSQL.
 Due to the large file size of the csv files
 used in the project exceeding github's 
 25MB file upload size, a link to the website 
-where the data was downloaded from is in the
+where the data was downloaded from is included in the
 project subfolder's README file.
 
 ## Data Cleaning in SQL
